@@ -4,15 +4,12 @@
 
 - [📌 Project Overview](#-project-overview)
 - [🚀 Features](#-features)
-- [🧠 Skills Demonstrated](#-skills-demonstrated)
 - [🛠 Tools & Libraries Used](#-tools--libraries-used)
 - [📂 Project Files](#-project-files)
 
 ## 📌 Project Overview
 
 ## 🚀 Features 
-
-## 🧠 Skills Demonstrated
 
 ## 🛠 Tools & Libraries Used
 
